@@ -1,0 +1,25 @@
+{
+  "name": "puzzle",
+  "version": "1.0.0",
+  "description": "\"a puzzle test for solution\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"live\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narayanasatya44392/eio-app.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "satya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narayanasatya44392/eio-app/issues"
+  },
+  "homepage": "https://github.com/narayanasatya44392/eio-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
